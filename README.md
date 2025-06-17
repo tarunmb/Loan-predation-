@@ -55,7 +55,3 @@ To develop a supervised classification model that predicts loan approval status 
 - Identified **credit history** and **income** as key factors influencing approval  
 - Confusion matrix and ROC-AUC curve indicated strong classification performance
 
----
-
-## 📂 Project Structure
-
